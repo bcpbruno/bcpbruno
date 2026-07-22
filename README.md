@@ -5,7 +5,7 @@ Profissional de TI com mais de 10 anos de experiência em implantação de siste
 🚀 **[Acesse o meu Portfólio Completo](https://bcpbruno.github.io/portfolio)**
 
 ## 🛠️ Tecnologias e Especialidades
-- **ERP & Sistemas:** Prodata, Transdata, Praxio (Globus), TOTVS Logix/RM, Sisma, GAtec, Solinfitec.
+- **ERP & Sistemas:** Prodata, Transdata, Praxio (Globus), TOTVS Logix/RM, Sisma, GAtec, Solinftec.
 - **Infraestrutura:** Alta disponibilidade, Monitoramento, Gestão de Chamados (GLPI).
 - **Metodologias:** Organização de processos corporativos, mapeamento e documentação técnica.
 
