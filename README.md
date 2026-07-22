@@ -43,7 +43,7 @@ Sinta-se à vontade para entrar em contato para oportunidades, consultorias ou t
 
 - 🌐 **[Acesse o meu Portfólio Web Completo](https://bcpbruno.github.io/portfolio/)**
 - 💼 **[Acesse o meu Perfil no LinkedIn](https://www.linkedin.com/in/bruno-carvalho-de-paula-5b509b61)**
-- 📧 **E-mail Corporativo:** bcp.bruno@gmail.com
+- 📧 **E-mail:** bcp.bruno@gmail.com
 
 ---
 *© 2026 Bruno Carvalho de Paula. Criado com foco em governança, eficiência e entrega de valor através da tecnologia.*
