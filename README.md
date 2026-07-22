@@ -7,7 +7,7 @@
 
 ### 💼 Resumo Profissional
 
-Sou profissional formado em **Ciência da Computação** com sólida atuação em ambientes corporativos de grande porte. Minha especialidade reside na intersecção entre a infraestrutura de TI e as regras de negócio de uma empresa, garantindo que os serviços críticos operem com alta disponibilidade, dentro dos SLAs estabelecidos e alinhados às metas corporativas. 
+Sou profissional formado em **Ciência da Computação** com sólida atuação em ambientes corporativos de medio/grande porte. Minha especialidade reside na intersecção entre a infraestrutura de TI e as regras de negócio de uma empresa, garantindo que os serviços críticos operem com alta disponibilidade, dentro dos SLAs estabelecidos e alinhados às metas corporativas. 
 
 Possuo vasta experiência técnica em **mapeamento e otimização de processos**, documentação técnica de sistemas, suporte de nível avançado e coordenação de equipes de tecnologia. Destaco-me pelo comprometimento com a qualidade das entregas e a melhoria contínua dos ambientes operacionais.
 
