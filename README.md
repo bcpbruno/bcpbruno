@@ -10,6 +10,6 @@ Profissional de TI com mais de 10 anos de experiência em implantação de siste
 - **Metodologias:** Organização de processos corporativos, mapeamento e documentação técnica.
 
 ## 📈 Conecte-se comigo
-- 🌐 [Meu Site Portfólio](https://github.io)
-- 💼 [LinkedIn](https://linkedin.com) <!-- Substitua com o link real do seu perfil -->
+- 🌐 [Meu Site Portfólio](https://bcpbruno.github.io/bcpbruno/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-carvalho-de-paula-5b509b61)
 - 📧 bcp.bruno@gmail.com
