@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Carvalho de Paula 👋
+# Olá, eu sou o Bruno 👋
 
 > **Transformando TI em Resultado Operacional e Estabilidade Corporativa**
 > *Mais de 10 anos liderando operações, implantando sistemas integrados e resolvendo problemas reais de negócio.*
